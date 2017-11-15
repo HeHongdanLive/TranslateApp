@@ -3,6 +3,19 @@
 
 [![Build Status](https://travis-ci.org/maoruibin/TranslateApp.svg?branch=master)](https://travis-ci.org/maoruibin/TranslateApp)
 
+
+包含技术_HHD：
+
+- 1、全程使用 Dagger2 对项目进行类依赖管理
+- 2、项目使用标准的 MVP 架构，关于 MVP 的一篇博客
+- 3、实现对粘贴板的监听以及访问
+- 4、无需权限显示悬浮窗（6.0悬浮窗权限适配）
+- 5、使用 RxJava 探索函数式编程
+- 6、使用 Retrofit2 进行网络请求
+- 7、开机自启动
+- 8、Android 6.0 自定义文本操作栏
+
+
 ## 介绍
 一个实现『划词翻译』功能的 Android 应用 ，可能是目前 Android 市场上翻译效率最高的一款应用。
 
